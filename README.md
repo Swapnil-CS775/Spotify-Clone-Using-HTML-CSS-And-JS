@@ -39,10 +39,6 @@ A web-based music player that mimics the design and functionality of Spotify. Th
 - Handled audio playback using the HTML5 Audio API.
 - Improved skills in dynamic content manipulation and event handling.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Inspired by Spotify's design and functionality.
